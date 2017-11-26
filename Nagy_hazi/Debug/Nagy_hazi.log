@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\szabó dániel\source\repos\nagy_hazi\nagy_hazi\source.c(224): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\szabó dániel\source\repos\nagy_hazi\nagy_hazi\source.c(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Nagy_hazi.vcxproj -> C:\Users\Szabó Dániel\source\repos\Nagy_hazi\Debug\Nagy_hazi.exe
